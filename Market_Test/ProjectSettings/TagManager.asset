@@ -7,6 +7,8 @@ TagManager:
   - ship
   - asteroid
   - Door
+  - Fruit
+  - Truck
   layers:
   - Default
   - TransparentFX
